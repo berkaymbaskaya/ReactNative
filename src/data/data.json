@@ -1,0 +1,95 @@
+[
+  {
+    "id": -1,
+    "baslik": "Mobil Uygulama",
+    "aciklama": "Kadınlarla Erkekleri eşleştiren bir uygulama yaptırmak istiyorum",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Veysel",
+    "soyad": "Alceylan",
+    "diller": "Flutter",
+    "fiyat": 40000,
+    "loc":"İstanbul/Beykoz",
+    "tel":"05465455678"
+
+  },
+  {
+    "id": 0,
+    "baslik": "Web Sitesi",
+    "aciklama": "CV'mi bir web sitesi olarak oluşturmak istiyorum.",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Fatih",
+    "soyad": "Usta",
+    "diller": "Javascript,HTML&CSS",
+    "fiyat": 2500,
+    "loc":"İstanbul/Şişli",
+    "tel":"05465455678"
+
+  },
+  {
+    "id": 1,
+    "baslik": "Mobil Uyg",
+    "aciklama": "CBS tabanlı bir mobil uygulama yaptırmak istiyorum",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Berkay",
+    "soyad": "Başkaya",
+    "diller": "React Native",
+    "fiyat": 2000,
+    "loc":"İstanbul/Kadıköy",
+    "tel":"05465455678"
+
+  },
+  {
+    "id": 2,
+    "baslik": "Data Analiz",
+    "aciklama": "Elimdeki datalar için detaylı bir analiz yaptırmak istiyorum",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Uğurcan",
+    "soyad": "Gül",
+    "diller": "Python & R",
+    "fiyat": 10000,
+    "loc":"İstanbul/Beşiktaş",
+    "tel":"05465455678"
+
+  },
+  {
+    "id": 3,
+    "baslik": "Web Sitesi",
+    "aciklama": "CV'mi bir web sitesi olarak oluşturmak istiyorum.",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Fatih",
+    "soyad": "Usta",
+    "diller": "Javascript,HTML&CSS",
+    "fiyat": 2500,
+    "loc":"İstanbul/Bahçelievler",
+    "tel":"05465455678"
+
+  },
+  {
+    "id": 4,
+    "baslik": "Mobil Uyg",
+    "aciklama": "CBS tabanlı bir mobil uygulama yaptırmak istiyorum",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Berkay",
+    "soyad": "Başkaya",
+    "diller": "React Native",
+    "fiyat": 2000,
+    "loc":"Ankara/Çankaya",
+    "tel":"05465455678"
+
+
+  },
+  {
+    "id": 5,
+    "baslik": "Data Analiz",
+    "aciklama": "Elimdeki datalar için detaylı bir analiz yaptırmak istiyorum",
+    "detay": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+    "ad": "Uğurcan",
+    "soyad": "Gül",
+    "diller": "Python & R",
+    "fiyat": 10000,
+    "loc":"İstanbul/Levent",
+    "tel":"05465455678"
+
+
+  }
+]
